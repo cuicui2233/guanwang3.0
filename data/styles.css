@@ -13,8 +13,6 @@
 }
 .box_3 {
 }
-.ellipse {
-}
 ._图片 {
 }
 .placeholder {
@@ -72,43 +70,15 @@
 ._文本段落 {
   text-align:left;
 }
+._流程形状 {
+}
 .line {
-}
-.arrow {
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.droplist {
-  color:#000000;
-  text-align:left;
-}
-.list_box {
-  color:#000000;
-  text-align:left;
-}
-.checkbox {
-  text-align:left;
 }
 .radio_button {
   text-align:left;
 }
-.table_cell {
+.marker {
+  color:#FFFFFF;
 }
-.sticky_1 {
-  text-align:left;
-}
-._流程形状 {
-}
-._连接线 {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:12px;
-  color:#999999;
-  text-align:center;
-  line-height:normal;
-}
-.icon {
+.flow_shape {
 }
